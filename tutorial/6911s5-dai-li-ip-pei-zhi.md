@@ -18,7 +18,7 @@
 
 ![1607616382457119.png](https://admin.mbbrowser.com/static/upload/images/article/2020/12/11/1607616382457119.png)
 
-5、在设置页面设置端口转发，填入一个端口范围5000-5099，点击“save”键保存，在“Proxy Tool”，选项中选择“Other Proxy Tools”;
+5、在设置页面设置端口转发，填入一个端口范围<mark style="color:red;">4440-4539</mark>，点击“save”键保存，在“Proxy Tool”，选项中选择“Other Proxy Tools”;
 
 ![](https://admin.mbbrowser.com/static/upload/images/article/2020/12/11/1607616382230960.png)
 
