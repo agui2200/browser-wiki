@@ -20,7 +20,7 @@
 
 5、在设置页面设置端口转发，填入一个端口范围<mark style="color:red;">4440-4539</mark>，点击“save”键保存，在“Proxy Tool”，选项中选择“Other Proxy Tools”;
 
-![](https://admin.mbbrowser.com/static/upload/images/article/2020/12/11/1607616382230960.png)
+![](../.gitbook/assets/1607616382230960.png)
 
 6、然后点击“ProxyList”回到IP列表页面，；
 
@@ -30,9 +30,9 @@
 
 ![](https://admin.mbbrowser.com/static/upload/images/article/2020/12/11/1607616383214660.png)
 
-8、在任意IP列表处单击鼠标右键在菜单中选择任意一个IP端口，并记住，千万不要选择“Froward 5000-5050”；
+8、在任意IP列表处单击鼠标右键在菜单中选择任意一个IP端口，并记住，千万不要选择“Froward 4440-4539”；
 
-![](https://admin.mbbrowser.com/static/upload/images/article/2020/12/11/1607616383162633.png)
+![](../.gitbook/assets/1607616382230961.png)
 
 9、在点击“TodayList”就可以看到当天使用的IP列表了；
 
